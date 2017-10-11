@@ -1,0 +1,28 @@
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
+
+.navbar {
+    /* background-color: rgba(97, 97, 97, 0.26) !important; */
+}
+
+.navbar-brand {
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 30px;
+    margin: 0px;
+}
+
+.usericon {
+    border-radius: 50px;
+}

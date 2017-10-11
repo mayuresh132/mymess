@@ -1,0 +1,43 @@
+.view {
+    background: url("../../assets/img/Thali2.png")no-repeat center center;
+    /* background: red; */
+    background-size: cover;
+}
+
+.md-form label {
+    color: #f8f9fa;
+}
+
+.md-form label.active {
+    color: #f8f9fa;
+}
+
+.form-control {
+    color: #ffffff;
+}
+
+@media only screen and (max-width: 500px) {
+    .form-inline {
+        margin-top: -180px;
+    }
+    .btnsearch {
+        margin-left: 125px;
+    }
+    .myForm {
+        margin-left: 100px;
+    }
+}
+
+.form-inline {
+    position: fixed;
+}
+
+.form-control[_ngcontent-c2] {
+    width: 200px;
+}
+
+
+/*
+.card {
+    width: 100px
+} */
